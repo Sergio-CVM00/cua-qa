@@ -1,0 +1,43 @@
+{
+  "schema": "cua-qa.environment.v1",
+  "recorded_at": null,
+  "target": {
+    "ref": "local:qa-worker",
+    "execution_host": null,
+    "guest_os": null,
+    "architecture": null,
+    "runtime": null,
+    "runtime_version": null,
+    "cua_version": null,
+    "image_digest": null
+  },
+  "isolation": {
+    "verified": false,
+    "host_mounts": null,
+    "privileged": null,
+    "host_devices_or_sockets": null,
+    "network_policy": null,
+    "shared_volume_grants": null,
+    "personal_sessions_present": null
+  },
+  "tooling": {
+    "node": null,
+    "browser": null,
+    "playwright": null
+  },
+  "application": {
+    "commit": null,
+    "artifact_sha256": null,
+    "launch_command": null
+  },
+  "ownership": {
+    "run_id": null,
+    "controller": null,
+    "lease": null
+  },
+  "retention": {
+    "persistent_space": true,
+    "evidence_destination": null,
+    "cleanup_owner": null
+  }
+}
