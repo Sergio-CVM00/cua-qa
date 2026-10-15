@@ -1,0 +1,17 @@
+{
+  "schema": "cua-qa.smoke.v1",
+  "status": "passed",
+  "started_at": "2026-10-15T18:25:45.454Z",
+  "fixture_sha256": "daaa04944cba1df6a01739bb57d539863c63d81226994ce6114c548cebdc6b0a",
+  "checks": [
+    "fixture loaded",
+    "task added through browser input",
+    "empty task rejected",
+    "no browser console or page errors"
+  ],
+  "errors": [],
+  "browser_closed": true,
+  "server_closed": true,
+  "browser_version": "154.0.8037.92",
+  "finished_at": "2026-10-15T18:25:47.303Z"
+}

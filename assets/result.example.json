@@ -1,0 +1,25 @@
+{
+  "schema": "cua-qa.result.v1",
+  "run_id": null,
+  "started_at": null,
+  "finished_at": null,
+  "target_ref": null,
+  "build_sha256": null,
+  "status": "pending",
+  "physical_desktop_used": false,
+  "scenarios": [
+    {
+      "name": "Replace with an actual scenario",
+      "status": "pending",
+      "expected": null,
+      "actual": null,
+      "evidence": []
+    }
+  ],
+  "defects": [],
+  "blocked": [],
+  "resources": {
+    "stopped": [],
+    "retained": []
+  }
+}
